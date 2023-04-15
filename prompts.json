@@ -1,11 +1,9 @@
-{
-    [
-	"hi, gpt! i'd like to create my own website to gather and show my wonderful other pages. can you write html and css? the web site includes some links and short descriptions for them",
-	"can you add headers and a side bar!! and use cool colors, i know you're export web designer!!",
-	"i feel it has too vivid colors... sorry can you choose another color pallet?",
-	"you can use multiple colors because you are professional designer!!!",
-	"can you design more modern layout? you can forget side bars and colors i told so far to realize your modern design! but, off course, it is allowed to use them if you need!",
-	"great!! my pages in this web site belong to the categories. each category has one or more pages. one page does not belong to multiple categories. can you modify the site to show them effectively??",
-	"can i see the example that The categories have multiple pages and the numbers of pages each category has are different?"
-    ]
-}
+[
+  "hi, gpt! i'd like to create my own website to gather and show my wonderful other pages. can you write html and css? the web site includes some links and short descriptions for them",
+  "can you add headers and a side bar!! and use cool colors, i know you're export web designer!!",
+  "i feel it has too vivid colors... sorry can you choose another color pallet?",
+  "you can use multiple colors because you are professional designer!!!",
+  "can you design more modern layout? you can forget side bars and colors i told so far to realize your modern design! but, off course, it is allowed to use them if you need!",
+  "great!! my pages in this web site belong to the categories. each category has one or more pages. one page does not belong to multiple categories. can you modify the site to show them effectively??",
+  "can i see the example that The categories have multiple pages and the numbers of pages each category has are different?"
+]
