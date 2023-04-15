@@ -14,7 +14,7 @@ body {
 }
 
 header {
-  background-color: #6200EE;
+  background-color: #34495E;
   padding: 1rem;
 }
 
@@ -29,7 +29,7 @@ header h1 {
 }
 
 .sidebar {
-  background-color: #3700B3;
+  background-color: #2C3E50;
   width: 200px;
   padding: 1rem;
   color: #fff;
@@ -53,7 +53,7 @@ header h1 {
 }
 
 .sidebar a:hover {
-  color: #BB86FC;
+  color: #ECF0F1;
 }
 
 main {
@@ -70,16 +70,16 @@ main {
 }
 
 .links a {
-  color: #6200EE;
+  color: #2980B9;
   text-decoration: none;
 }
 
 .links a:hover {
-  color: #3700B3;
+  color: #3498DB;
 }
 
 footer {
-  background-color: #6200EE;
+  background-color: #34495E;
   color: #fff;
   text-align: center;
   padding: 1rem;
