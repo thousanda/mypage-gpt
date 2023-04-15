@@ -14,7 +14,7 @@ body {
 }
 
 header {
-  background-color: #34495E;
+  background-color: #1A237E;
   padding: 1rem;
 }
 
@@ -29,7 +29,7 @@ header h1 {
 }
 
 .sidebar {
-  background-color: #2C3E50;
+  background-color: #283593;
   width: 200px;
   padding: 1rem;
   color: #fff;
@@ -53,7 +53,7 @@ header h1 {
 }
 
 .sidebar a:hover {
-  color: #ECF0F1;
+  color: #9FA8DA;
 }
 
 main {
@@ -70,18 +70,36 @@ main {
 }
 
 .links a {
-  color: #2980B9;
+  color: #1A237E;
   text-decoration: none;
 }
 
 .links a:hover {
-  color: #3498DB;
+  color: #283593;
 }
 
 footer {
-  background-color: #34495E;
+  background-color: #1A237E;
   color: #fff;
   text-align: center;
   padding: 1rem;
   margin-top: 2rem;
+}
+
+.links article:nth-child(1) {
+  background-color: #E57373;
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+.links article:nth-child(2) {
+  background-color: #81C784;
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+.links article:nth-child(3) {
+  background-color: #64B5F6;
+  padding: 1rem;
+  border-radius: 5px;
 }
